@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 6장\test.cpp, programmers\완전탐색\test.cpp, test.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are netmarble\Q1.cpp, nexon\readTest\q1.cpp.
+  test.cpp
+Release\q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Release\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Release\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  코드를 생성하고 있습니다.
+  11 of 11 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  alospot.vcxproj -> D:\work\algospot\alospot\Release\alospot.exe
+  alospot.vcxproj -> D:\work\algospot\alospot\Release\alospot.pdb (Full PDB)

@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 6장\test.cpp, programmers\완전탐색\test.cpp, test.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are netmarble\Q1.cpp, nexon\readTest\q1.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are nexon\Demo\test2.cpp, test2.cpp.
+  wildCard_re.cpp
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(19): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(36): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(41): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(45): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(65): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\algospot\alospot\alospot\8장\wildcard_re.cpp(117): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  alospot.vcxproj -> D:\work\algospot\alospot\Debug\alospot.exe
+  alospot.vcxproj -> D:\work\algospot\alospot\Debug\alospot.pdb (Full PDB)

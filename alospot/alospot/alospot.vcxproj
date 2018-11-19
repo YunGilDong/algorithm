@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1장\festival.cpp" />
+    <ClCompile Include="6장\boardcover.cpp" />
+    <ClCompile Include="6장\boardCover2.cpp" />
+    <ClCompile Include="6장\boggle.cpp" />
+    <ClCompile Include="6장\clockSync.cpp" />
+    <ClCompile Include="6장\clockSync2.cpp" />
+    <ClCompile Include="6장\clockSync3.cpp" />
+    <ClCompile Include="6장\picnic.cpp" />
+    <ClCompile Include="6장\picnic2.cpp" />
+    <ClCompile Include="6장\test.cpp" />
+    <ClCompile Include="7장\fanmeeting.cpp" />
+    <ClCompile Include="7장\fence1.cpp" />
+    <ClCompile Include="7장\fence_divide.cpp" />
+    <ClCompile Include="7장\quadtree.cpp" />
+    <ClCompile Include="7장\quadTree2.cpp" />
+    <ClCompile Include="8장\jumpgame.cpp" />
+    <ClCompile Include="8장\wildcard.cpp" />
+    <ClCompile Include="8장\wildCard_re.cpp" />
+    <ClCompile Include="kakao\Demo\Demo1.cpp" />
+    <ClCompile Include="kakao\Demo\Demo2.cpp" />
+    <ClCompile Include="kakao\OnlineTest\p4_foodLive.cpp" />
+    <ClCompile Include="kakao\OnlineTest\q1_openChat.cpp" />
+    <ClCompile Include="kakao\OnlineTest\q2_failPer.cpp" />
+    <ClCompile Include="kakao\OnlineTest\q3_candiKey.cpp" />
+    <ClCompile Include="netmarble\Q1.cpp" />
+    <ClCompile Include="netmarble\Q2.cpp" />
+    <ClCompile Include="netmarble\Q3.cpp" />
+    <ClCompile Include="netmarble\Q4.cpp" />
+    <ClCompile Include="netmarble\Q5.cpp" />
+    <ClCompile Include="netmarble\Q5_1.cpp" />
+    <ClCompile Include="nexon\Demo\nexonDemo1.cpp" />
+    <ClCompile Include="nexon\Demo\test2.cpp" />
+    <ClCompile Include="nexon\readTest\p4.cpp" />
+    <ClCompile Include="nexon\readTest\q1.cpp" />
+    <ClCompile Include="programmers\DFS_BFS\lv2_targetNumber.cpp" />
+    <ClCompile Include="programmers\DFS_BFS\lv3_network.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv1.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv1_kjg.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv1_kkkjjjwww.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2_baseball.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2_carpet.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2_carpet_신재호.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2_primeSearch.cpp" />
+    <ClCompile Include="programmers\완전탐색\lv2기계과.cpp" />
+    <ClCompile Include="programmers\완전탐색\test.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="test2.cpp" />
+    <ClCompile Include="test3.cpp" />
+    <ClCompile Include="책\6장\boardCover_RE.cpp" />
+    <ClCompile Include="책\6장\boggle_RE.cpp" />
+    <ClCompile Include="책\6장\clockSync_RE.cpp" />
+    <ClCompile Include="책\6장\p148.cpp" />
+    <ClCompile Include="책\6장\p149_recursive.cpp" />
+    <ClCompile Include="책\6장\picnic_RE.cpp" />
+    <ClCompile Include="책\6장\travelingSales.cpp" />
+    <ClCompile Include="책\7장\fence_re.cpp" />
+    <ClCompile Include="책\7장\quadtree_decompress.cpp" />
+    <ClCompile Include="책\7장\test1.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5B518754-F6EF-4A0B-8644-746CA0E7C123}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>alospot</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

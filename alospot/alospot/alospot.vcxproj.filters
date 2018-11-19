@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1장">
+      <UniqueIdentifier>{abe18c7d-adbb-4151-916d-c7b6be86eee0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\책">
+      <UniqueIdentifier>{2dc812da-42b1-4a80-932c-d8dd54239480}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장">
+      <UniqueIdentifier>{7b3c9de9-7084-410a-aa75-d86bc74fa48f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Kakao">
+      <UniqueIdentifier>{2a1a4e1e-50e2-49a4-b4b0-b04b09b30bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Kakao\Demo">
+      <UniqueIdentifier>{5761c117-afbf-4616-ac2a-d4b74c012a6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Kakao\OnlineTest">
+      <UniqueIdentifier>{950ef2ed-a178-4297-8c62-11c539f3054a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\nexon">
+      <UniqueIdentifier>{2972e032-e366-4084-aba2-580dbee72e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\nexon\test">
+      <UniqueIdentifier>{f82ea0e9-7c94-4d6c-bc5e-114ff99a23b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\nexon\realTEst">
+      <UniqueIdentifier>{be1218bc-369c-4eb9-87d2-3b7c678859a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7장">
+      <UniqueIdentifier>{167023d3-3bd6-4789-a4c6-5d470bcdc51d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\책\7장">
+      <UniqueIdentifier>{56548d8a-9f64-4cb7-8324-6fa750367817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\책\6장">
+      <UniqueIdentifier>{5cf3cc59-567c-4648-a554-6cab02408f86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\netmarble">
+      <UniqueIdentifier>{3f2b091c-3e54-4e4b-b493-025310df005e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\programmers">
+      <UniqueIdentifier>{34ee54c3-99aa-41bb-9b87-44fb16e94db6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\TEST">
+      <UniqueIdentifier>{9a181071-4826-4b63-baf3-640a7093cbd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\programmers\완전탐색">
+      <UniqueIdentifier>{529eb09b-1232-4e5a-a4d8-b70b2092559d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8장">
+      <UniqueIdentifier>{a4379595-46d5-4e97-a6cc-6d2f74f81e2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\programmers\DFS_BFS">
+      <UniqueIdentifier>{4c1f1a72-6471-4627-b86d-d093a09a11be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\책\8장">
+      <UniqueIdentifier>{12c81f0a-8db6-4fc3-be36-f02d4d98d6e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1장\festival.cpp">
+      <Filter>소스 파일\1장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\boardcover.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\boardCover2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\boggle.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\clockSync.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\clockSync2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\clockSync3.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\picnic.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\picnic2.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="6장\test.cpp">
+      <Filter>소스 파일\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="7장\fence_divide.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="7장\fence1.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="7장\quadtree.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="7장\quadTree2.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\Demo\Demo1.cpp">
+      <Filter>소스 파일\Kakao\Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\Demo\Demo2.cpp">
+      <Filter>소스 파일\Kakao\Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\OnlineTest\p4_foodLive.cpp">
+      <Filter>소스 파일\Kakao\OnlineTest</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\OnlineTest\q1_openChat.cpp">
+      <Filter>소스 파일\Kakao\OnlineTest</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\OnlineTest\q2_failPer.cpp">
+      <Filter>소스 파일\Kakao\OnlineTest</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao\OnlineTest\q3_candiKey.cpp">
+      <Filter>소스 파일\Kakao\OnlineTest</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q1.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q2.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q3.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q4.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q5.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\Q5_1.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="nexon\Demo\test2.cpp">
+      <Filter>소스 파일\nexon\test</Filter>
+    </ClCompile>
+    <ClCompile Include="nexon\Demo\nexonDemo1.cpp">
+      <Filter>소스 파일\nexon\test</Filter>
+    </ClCompile>
+    <ClCompile Include="nexon\readTest\p4.cpp">
+      <Filter>소스 파일\nexon\realTEst</Filter>
+    </ClCompile>
+    <ClCompile Include="nexon\readTest\q1.cpp">
+      <Filter>소스 파일\nexon\realTEst</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv1.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv1_kjg.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv1_kkkjjjwww.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\boardCover_RE.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\boggle_RE.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\clockSync_RE.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\p148.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\p149_recursive.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\picnic_RE.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\6장\travelingSales.cpp">
+      <Filter>소스 파일\책\6장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\7장\quadtree_decompress.cpp">
+      <Filter>소스 파일\책\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="책\7장\test1.cpp">
+      <Filter>소스 파일\책\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2_primeSearch.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\test.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="책\7장\fence_re.cpp">
+      <Filter>소스 파일\책\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2기계과.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="7장\fanmeeting.cpp">
+      <Filter>소스 파일\7장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2_baseball.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2_carpet.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\완전탐색\lv2_carpet_신재호.cpp">
+      <Filter>소스 파일\programmers\완전탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\jumpgame.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\DFS_BFS\lv2_targetNumber.cpp">
+      <Filter>소스 파일\programmers\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\wildcard.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\DFS_BFS\lv3_network.cpp">
+      <Filter>소스 파일\programmers\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\wildCard_re.cpp">
+      <Filter>소스 파일\책\8장</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
