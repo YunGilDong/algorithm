@@ -55,6 +55,7 @@
     <ClCompile Include="nexon\readTest\q1.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv2_targetNumber.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv3_network.cpp" />
+    <ClCompile Include="programmers\DFS_BFS\lv3_wordChange.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1_kjg.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1_kkkjjjwww.cpp" />
