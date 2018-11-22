@@ -37,12 +37,18 @@
     <ClCompile Include="8장\jumpgame.cpp" />
     <ClCompile Include="8장\wildcard.cpp" />
     <ClCompile Include="8장\wildCard_re.cpp" />
+    <ClCompile Include="devsisters\Q1.cpp" />
+    <ClCompile Include="devsisters\Q2.cpp" />
+    <ClCompile Include="devsisters\Q2re.cpp" />
+    <ClCompile Include="devsisters\test1.cpp" />
+    <ClCompile Include="devsisters\Q3.cpp" />
     <ClCompile Include="kakao\Demo\Demo1.cpp" />
     <ClCompile Include="kakao\Demo\Demo2.cpp" />
     <ClCompile Include="kakao\OnlineTest\p4_foodLive.cpp" />
     <ClCompile Include="kakao\OnlineTest\q1_openChat.cpp" />
     <ClCompile Include="kakao\OnlineTest\q2_failPer.cpp" />
     <ClCompile Include="kakao\OnlineTest\q3_candiKey.cpp" />
+    <ClCompile Include="netmarble\gcd.cpp" />
     <ClCompile Include="netmarble\Q1.cpp" />
     <ClCompile Include="netmarble\Q2.cpp" />
     <ClCompile Include="netmarble\Q3.cpp" />
@@ -55,6 +61,7 @@
     <ClCompile Include="nexon\readTest\q1.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv2_targetNumber.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv3_network.cpp" />
+    <ClCompile Include="programmers\DFS_BFS\lv3_travelPath.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv3_wordChange.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1_kjg.cpp" />

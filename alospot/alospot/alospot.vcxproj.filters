@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\책\8장">
       <UniqueIdentifier>{12c81f0a-8db6-4fc3-be36-f02d4d98d6e2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\devsisters">
+      <UniqueIdentifier>{99752077-5e6b-4657-a86f-df0cd1438ce2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -250,6 +253,27 @@
       <Filter>소스 파일\책\8장</Filter>
     </ClCompile>
     <ClCompile Include="programmers\DFS_BFS\lv3_wordChange.cpp">
+      <Filter>소스 파일\programmers\DFS_BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="netmarble\gcd.cpp">
+      <Filter>소스 파일\netmarble</Filter>
+    </ClCompile>
+    <ClCompile Include="devsisters\test1.cpp">
+      <Filter>소스 파일\devsisters</Filter>
+    </ClCompile>
+    <ClCompile Include="devsisters\Q1.cpp">
+      <Filter>소스 파일\devsisters</Filter>
+    </ClCompile>
+    <ClCompile Include="devsisters\Q2.cpp">
+      <Filter>소스 파일\devsisters</Filter>
+    </ClCompile>
+    <ClCompile Include="devsisters\Q2re.cpp">
+      <Filter>소스 파일\devsisters</Filter>
+    </ClCompile>
+    <ClCompile Include="devsisters\Q3.cpp">
+      <Filter>소스 파일\devsisters</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\DFS_BFS\lv3_travelPath.cpp">
       <Filter>소스 파일\programmers\DFS_BFS</Filter>
     </ClCompile>
   </ItemGroup>
