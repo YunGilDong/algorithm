@@ -4,7 +4,7 @@ C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.target
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\test1.cpp, 책\7장\test1.cpp.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q3.cpp, netmarble\Q3.cpp.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are nexon\Demo\test2.cpp, test2.cpp.
-  Q2re.cpp
-d:\work\study\algorithm\algorithm\alospot\alospot\devsisters\q2re.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  lv3_travelPath.cpp
+cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
   alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.exe
   alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.pdb (Full PDB)

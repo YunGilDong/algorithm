@@ -35,6 +35,7 @@
     <ClCompile Include="7장\quadtree.cpp" />
     <ClCompile Include="7장\quadTree2.cpp" />
     <ClCompile Include="8장\jumpgame.cpp" />
+    <ClCompile Include="8장\trianglepath.cpp" />
     <ClCompile Include="8장\wildcard.cpp" />
     <ClCompile Include="8장\wildCard_re.cpp" />
     <ClCompile Include="devsisters\Q1.cpp" />
