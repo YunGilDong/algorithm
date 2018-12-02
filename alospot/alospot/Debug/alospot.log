@@ -1,10 +1,25 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 6장\test.cpp, programmers\완전탐색\test.cpp, test.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q1.cpp, netmarble\Q1.cpp, nexon\readTest\q1.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q2.cpp, netmarble\Q2.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q1.cpp, netmarble\Q1.cpp, nexon\readTest\q1.cpp, sundaytoz\q1.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q2.cpp, netmarble\Q2.cpp, q2.cpp.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\test1.cpp, 책\7장\test1.cpp.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q3.cpp, netmarble\Q3.cpp.
 C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are nexon\Demo\test2.cpp, test2.cpp.
   lv3_travelPath.cpp
-cl : 명령줄 warning D9028: 최소 다시 빌드에 실패했습니다. 정상 빌드로 되돌립니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(59): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(73): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\work\study\algorithm\algorithm\alospot\alospot\programmers\dfs_bfs\lv3_travelpath.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Debug\Q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\Q2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\Q3.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
   alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.exe
   alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.pdb (Full PDB)
