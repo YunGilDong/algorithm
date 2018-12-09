@@ -291,5 +291,14 @@
     <ClCompile Include="sundaytoz\q2_1.cpp">
       <Filter>소스 파일\sundaytoz</Filter>
     </ClCompile>
+    <ClCompile Include="8장\LIS.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sundaytoz\q2_re_optical.cpp">
+      <Filter>소스 파일\sundaytoz</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

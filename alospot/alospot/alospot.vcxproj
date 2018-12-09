@@ -35,6 +35,7 @@
     <ClCompile Include="7장\quadtree.cpp" />
     <ClCompile Include="7장\quadTree2.cpp" />
     <ClCompile Include="8장\jumpgame.cpp" />
+    <ClCompile Include="8장\LIS.cpp" />
     <ClCompile Include="8장\trianglepath.cpp" />
     <ClCompile Include="8장\wildcard.cpp" />
     <ClCompile Include="8장\wildCard_re.cpp" />
@@ -77,9 +78,11 @@
     <ClCompile Include="q2.cpp" />
     <ClCompile Include="sundaytoz\q1.cpp" />
     <ClCompile Include="sundaytoz\q2_1.cpp" />
+    <ClCompile Include="sundaytoz\q2_re_optical.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="test2.cpp" />
     <ClCompile Include="test3.cpp" />
+    <ClCompile Include="test4.cpp" />
     <ClCompile Include="책\6장\boardCover_RE.cpp" />
     <ClCompile Include="책\6장\boggle_RE.cpp" />
     <ClCompile Include="책\6장\clockSync_RE.cpp" />
