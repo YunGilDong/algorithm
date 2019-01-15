@@ -76,6 +76,9 @@
     <Filter Include="소스 파일\sundaytoz">
       <UniqueIdentifier>{4f255a54-4466-4581-aa06-a40d41962244}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\STACK_QUE">
+      <UniqueIdentifier>{14b0ef54-8bab-4d4a-8266-2431c899283e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -299,6 +302,27 @@
     </ClCompile>
     <ClCompile Include="sundaytoz\q2_re_optical.cpp">
       <Filter>소스 파일\sundaytoz</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\ironStick_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\printer_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="책\8장\LIS_RE.cpp">
+      <Filter>소스 파일\책\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\bridge_truck_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\bridge_truck_mdh.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\PI.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\pi_mem.cpp">
+      <Filter>소스 파일\8장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

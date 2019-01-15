@@ -36,6 +36,8 @@
     <ClCompile Include="7장\quadTree2.cpp" />
     <ClCompile Include="8장\jumpgame.cpp" />
     <ClCompile Include="8장\LIS.cpp" />
+    <ClCompile Include="8장\PI.cpp" />
+    <ClCompile Include="8장\pi_mem.cpp" />
     <ClCompile Include="8장\trianglepath.cpp" />
     <ClCompile Include="8장\wildcard.cpp" />
     <ClCompile Include="8장\wildCard_re.cpp" />
@@ -65,6 +67,10 @@
     <ClCompile Include="programmers\DFS_BFS\lv3_network.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv3_travelPath.cpp" />
     <ClCompile Include="programmers\DFS_BFS\lv3_wordChange.cpp" />
+    <ClCompile Include="programmers\STACK_QUE\bridge_truck_lv2.cpp" />
+    <ClCompile Include="programmers\STACK_QUE\bridge_truck_mdh.cpp" />
+    <ClCompile Include="programmers\STACK_QUE\ironStick_lv2.cpp" />
+    <ClCompile Include="programmers\STACK_QUE\printer_lv2.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1_kjg.cpp" />
     <ClCompile Include="programmers\완전탐색\lv1_kkkjjjwww.cpp" />
@@ -93,6 +99,7 @@
     <ClCompile Include="책\7장\fence_re.cpp" />
     <ClCompile Include="책\7장\quadtree_decompress.cpp" />
     <ClCompile Include="책\7장\test1.cpp" />
+    <ClCompile Include="책\8장\LIS_RE.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{5B518754-F6EF-4A0B-8644-746CA0E7C123}</ProjectGuid>
