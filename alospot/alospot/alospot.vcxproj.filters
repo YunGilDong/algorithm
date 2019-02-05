@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\programmers\STACK_QUE">
       <UniqueIdentifier>{14b0ef54-8bab-4d4a-8266-2431c899283e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\HASH">
+      <UniqueIdentifier>{e487d694-956a-4970-9181-724940a896ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -323,6 +326,42 @@
     </ClCompile>
     <ClCompile Include="8장\pi_mem.cpp">
       <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\funcDevelop_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\top_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\STACK_QUE\stockPrice_lv2.cpp">
+      <Filter>소스 파일\programmers\STACK_QUE</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\noGoalPlayer_lv1.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\noGoalPlayer_mapVer_lv1.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\noGoalPlayer_otherPeople_lv1.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\phoneBook_lv2.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\disguise_lv2.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\quantize.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\disguise_other_lv2.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="8장\tiling2.cpp">
+      <Filter>소스 파일\8장</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\HASH\bestAlbum_lv3.cpp">
+      <Filter>소스 파일\programmers\HASH</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
