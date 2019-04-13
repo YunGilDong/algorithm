@@ -82,6 +82,9 @@
     <Filter Include="소스 파일\programmers\HASH">
       <UniqueIdentifier>{e487d694-956a-4970-9181-724940a896ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\정렬">
+      <UniqueIdentifier>{3b62b8ff-cf2b-4a0f-a90a-77ea78f8751b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -362,6 +365,12 @@
     </ClCompile>
     <ClCompile Include="programmers\HASH\bestAlbum_lv3.cpp">
       <Filter>소스 파일\programmers\HASH</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\정렬\K_th_Number_lv1.cpp">
+      <Filter>소스 파일\programmers\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\정렬\bigNum_lv2.cpp">
+      <Filter>소스 파일\programmers\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
