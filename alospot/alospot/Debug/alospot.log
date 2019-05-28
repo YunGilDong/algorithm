@@ -1,12 +1,124 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 6장\test.cpp, programmers\완전탐색\test.cpp, test.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q1.cpp, netmarble\Q1.cpp, nexon\readTest\q1.cpp, sundaytoz\q1.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q2.cpp, netmarble\Q2.cpp, q2.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\test1.cpp, 책\7장\test1.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Q3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q3.cpp, netmarble\Q3.cpp.
-C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of test2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are nexon\Demo\test2.cpp, test2.cpp.
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of test.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are 6장\test.cpp, programmers\완전탐색\test.cpp, test.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of Q1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q1.cpp, netmarble\Q1.cpp, nexon\readTest\q1.cpp, sundaytoz\q1.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of Q2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q2.cpp, netmarble\Q2.cpp, q2.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of test1.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\test1.cpp, 책\7장\test1.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of Q3.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are devsisters\Q3.cpp, netmarble\Q3.cpp.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(992,5): warning MSB8027: Two or more files with the name of test2.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are nexon\Demo\test2.cpp, test2.cpp.
+  festival.cpp
+  boardcover.cpp
+  boardCover2.cpp
+  boggle.cpp
+  clockSync.cpp
+  clockSync2.cpp
+  clockSync3.cpp
+  picnic.cpp
+  picnic2.cpp
+  test.cpp
+  fanmeeting.cpp
+  fence1.cpp
+  fence_divide.cpp
+  quadtree.cpp
+  quadTree2.cpp
+  jumpgame.cpp
+  LIS.cpp
+  PI.cpp
+  pi_mem.cpp
+  quantize.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  tiling2.cpp
+  trianglepath.cpp
+  wildcard.cpp
+  wildCard_re.cpp
+  Q1.cpp
+  Q2.cpp
+  Q2re.cpp
+  test1.cpp
+  Q3.cpp
+  Demo1.cpp
+  Demo2.cpp
+  p4_foodLive.cpp
+  q1_openChat.cpp
+  q2_failPer.cpp
+  q3_candiKey.cpp
+  gcd.cpp
+  Q1.cpp
+  Q2.cpp
+  Q3.cpp
+  Q4.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Q5.cpp
+  Q5_1.cpp
+  nexonDemo1.cpp
+  test2.cpp
+  p4.cpp
+  q1.cpp
+  lv2_targetNumber.cpp
+  lv3_network.cpp
+  lv3_travelPath.cpp
+  lv3_wordChange.cpp
+  bestAlbum_lv3.cpp
+  disguise_lv2.cpp
+  disguise_other_lv2.cpp
+  noGoalPlayer_lv1.cpp
+  noGoalPlayer_mapVer_lv1.cpp
+  noGoalPlayer_otherPeople_lv1.cpp
+  phoneBook_lv2.cpp
+  bridge_truck_lv2.cpp
+  bridge_truck_mdh.cpp
+  funcDevelop_lv2.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ironStick_lv2.cpp
+  printer_lv2.cpp
+  stockPrice_lv2.cpp
+  top_lv2.cpp
+  lv1.cpp
+  lv1_kjg.cpp
+  lv1_kkkjjjwww.cpp
+  lv2.cpp
+  lv2_baseball.cpp
+  lv2_carpet.cpp
+  lv2_carpet_신재호.cpp
+  lv2_primeSearch.cpp
+  lv2기계과.cpp
+  test.cpp
   bigNum_lv2.cpp
-d:\work\study\algorithm\algorithm\alospot\alospot\programmers\정렬\bignum_lv2.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-d:\work\study\algorithm\algorithm\alospot\alospot\programmers\정렬\bignum_lv2.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-d:\work\study\algorithm\algorithm\alospot\alospot\programmers\정렬\bignum_lv2.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.exe
-  alospot.vcxproj -> D:\Work\Study\algorithm\algorithm\alospot\Debug\alospot.pdb (Full PDB)
+D:\work\algorithm\alospot\alospot\programmers\정렬\bigNum_lv2.cpp(13,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\work\algorithm\alospot\alospot\programmers\정렬\bigNum_lv2.cpp(32,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  K_th_Number_lv1.cpp
+  q2.cpp
+  q1.cpp
+  q2_1.cpp
+  q2_re_optical.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  test.cpp
+  test2.cpp
+  test3.cpp
+  test4.cpp
+  boardCover_RE.cpp
+  boggle_RE.cpp
+  clockSync_RE.cpp
+  p148.cpp
+  p149_recursive.cpp
+  picnic_RE.cpp
+  travelingSales.cpp
+  fence_re.cpp
+  quadtree_decompress.cpp
+  test1.cpp
+  LIS_RE.cpp
+  코드를 생성하고 있습니다...
+D:\work\algorithm\alospot\alospot\programmers\정렬\bigNum_lv2.cpp(35,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+Debug\Q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\Q2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\Q3.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\q1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test2.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\test1.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  alospot.vcxproj -> D:\work\algorithm\alospot\Debug\alospot.exe
