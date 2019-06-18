@@ -1,5 +1,13 @@
 # Created by https://www.gitignore.io/api/c++,windows
 
+#Directory
+alospot/Debug/
+alospot/alospot/Debug/
+
+#files
+*.log
+*.tlog
+
 Monitor
 *.zip
 ### Histor ###

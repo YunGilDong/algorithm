@@ -372,5 +372,8 @@
     <ClCompile Include="programmers\정렬\bigNum_lv2.cpp">
       <Filter>소스 파일\programmers\정렬</Filter>
     </ClCompile>
+    <ClCompile Include="programmers\정렬\h_index_lv2.cpp">
+      <Filter>소스 파일\programmers\정렬</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

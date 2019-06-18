@@ -94,6 +94,7 @@
     <ClCompile Include="programmers\완전탐색\lv2기계과.cpp" />
     <ClCompile Include="programmers\완전탐색\test.cpp" />
     <ClCompile Include="programmers\정렬\bigNum_lv2.cpp" />
+    <ClCompile Include="programmers\정렬\h_index_lv2.cpp" />
     <ClCompile Include="programmers\정렬\K_th_Number_lv1.cpp" />
     <ClCompile Include="q2.cpp" />
     <ClCompile Include="sundaytoz\q1.cpp" />
