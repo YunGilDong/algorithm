@@ -76,6 +76,7 @@
     <ClCompile Include="programmers\HASH\noGoalPlayer_mapVer_lv1.cpp" />
     <ClCompile Include="programmers\HASH\noGoalPlayer_otherPeople_lv1.cpp" />
     <ClCompile Include="programmers\HASH\phoneBook_lv2.cpp" />
+    <ClCompile Include="programmers\LV2\skill_tree_lv2.cpp" />
     <ClCompile Include="programmers\STACK_QUE\bridge_truck_lv2.cpp" />
     <ClCompile Include="programmers\STACK_QUE\bridge_truck_mdh.cpp" />
     <ClCompile Include="programmers\STACK_QUE\funcDevelop_lv2.cpp" />
