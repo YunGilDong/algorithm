@@ -88,6 +88,9 @@
     <Filter Include="소스 파일\programmers\LV2">
       <UniqueIdentifier>{bee0be0f-bfd0-4b08-875d-b2bd947e1a66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\programmers\LV3">
+      <UniqueIdentifier>{0fd9ae6e-0af3-4427-9f74-35aebb2aaedf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -380,6 +383,9 @@
     </ClCompile>
     <ClCompile Include="programmers\LV2\skill_tree_lv2.cpp">
       <Filter>소스 파일\programmers\LV2</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\LV3\kakao_2017_colouringBook_lv3.cpp">
+      <Filter>소스 파일\programmers\LV3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
