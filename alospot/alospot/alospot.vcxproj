@@ -48,6 +48,10 @@
     <ClCompile Include="devsisters\Q2re.cpp" />
     <ClCompile Include="devsisters\test1.cpp" />
     <ClCompile Include="devsisters\Q3.cpp" />
+    <ClCompile Include="kakao2019\demo1.cpp" />
+    <ClCompile Include="kakao2019\demo2.cpp" />
+    <ClCompile Include="kakao2019\q1.cpp" />
+    <ClCompile Include="kakao2019\q1_re.cpp" />
     <ClCompile Include="kakao\Demo\Demo1.cpp" />
     <ClCompile Include="kakao\Demo\Demo2.cpp" />
     <ClCompile Include="kakao\OnlineTest\p4_foodLive.cpp" />
@@ -79,6 +83,7 @@
     <ClCompile Include="programmers\LV2\skill_tree_lv2.cpp" />
     <ClCompile Include="programmers\LV3\2_mul_N_tile_lv3.cpp" />
     <ClCompile Include="programmers\LV3\kakao_2017_colouringBook_lv3.cpp" />
+    <ClCompile Include="programmers\LV3\lv3_int_triangle.cpp" />
     <ClCompile Include="programmers\STACK_QUE\bridge_truck_lv2.cpp" />
     <ClCompile Include="programmers\STACK_QUE\bridge_truck_mdh.cpp" />
     <ClCompile Include="programmers\STACK_QUE\funcDevelop_lv2.cpp" />

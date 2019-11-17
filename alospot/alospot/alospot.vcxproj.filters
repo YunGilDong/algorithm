@@ -91,6 +91,9 @@
     <Filter Include="소스 파일\programmers\LV3">
       <UniqueIdentifier>{0fd9ae6e-0af3-4427-9f74-35aebb2aaedf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\kakao2019">
+      <UniqueIdentifier>{ab6712d9-a84a-44fc-9032-5d4c90d6210b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1장\festival.cpp">
@@ -388,6 +391,21 @@
       <Filter>소스 파일\programmers\LV3</Filter>
     </ClCompile>
     <ClCompile Include="programmers\LV3\2_mul_N_tile_lv3.cpp">
+      <Filter>소스 파일\programmers\LV3</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao2019\q1.cpp">
+      <Filter>소스 파일\kakao2019</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao2019\demo1.cpp">
+      <Filter>소스 파일\kakao2019</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao2019\demo2.cpp">
+      <Filter>소스 파일\kakao2019</Filter>
+    </ClCompile>
+    <ClCompile Include="kakao2019\q1_re.cpp">
+      <Filter>소스 파일\kakao2019</Filter>
+    </ClCompile>
+    <ClCompile Include="programmers\LV3\lv3_int_triangle.cpp">
       <Filter>소스 파일\programmers\LV3</Filter>
     </ClCompile>
   </ItemGroup>
